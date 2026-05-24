@@ -1,12 +1,14 @@
-## About Me:
+## About Me
+PT:
 * Com 12 anos de experiência em outra área, decidi abraçar um novo desafio para a área de tecnologia com foco em DevOps & DevSecOps.
 
 * Estou dedicando ao domínio de Linux, Shell Scripting, Git/GitHub, Redes e Automação de Processos. Aplicando práticas modernas de CI/CD, Containerização (Docker), Observabilidade, Cloud e Segurança.
 Busco absorver e desenvolver experiência prática através de pesquisas, projetos e estudos contínuos.
 
 * Repositórios dedicados aos meus estudos, projetos e evolução, guiados por um roadmap organizado e prático.
-
-#### 🌎
+  
+#### 
+EN:
 * With 12 years of experience in another field, I decided to embrace a new challenge in technology, focusing on DevOps & DevSecOps.
 
 * I am dedicated to mastering Linux, Shell Scripting, Git/GitHub, Networking, and Process Automation. Applying modern practices in CI/CD, Containerization (Docker), Observability, Cloud, and Security. I seek to absorb knowledge and develop hands-on experience through research, projects, and continuous learning. 
